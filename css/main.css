@@ -829,7 +829,7 @@ ul.list-default li {
 	 Teams
 -------------------------------------------------------------------------------*/
 .person {
-	max-width: 270px;
+	max-width: 100px;
 	text-align: center;
 }
 .person img {
